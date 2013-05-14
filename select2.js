@@ -2195,6 +2195,7 @@ the specific language governing permissions and limitations under the Apache Lic
                 //"<li class='select2-search-choice'><span>California</span><a href="javascript:void(0)" class="select2-search-choice-close"></a></li>" ,
                 "  <li class='select2-search-field'>" ,
                 "    <input type='text' autocomplete='off' autocorrect='off' autocapitilize='off' spellcheck='false' class='select2-input'>" ,
+                "    <div><b></b></div>" ,
                 "  </li>" ,
                 "</ul>" ,
                 "<div class='select2-drop select2-drop-multi select2-display-none'>" ,
